@@ -95,3 +95,19 @@ Often solvers offer to download the archive with weights model before starting m
 # Baseline
 
 The current baseline to beat for the first part is 0.92.
+
+# Model result
+
+Categories:
+* Бытовая электроника: 0.9608737099399856
+* Недвижимость: 0.9866777893650743
+* Транспорт: 0.9911951655525614
+* Работа: 0.9574465659298896
+* Для дома и дачи: 0.9642454583088893
+* Услуги: 0.9387760412884234
+* Личные вещи: 0.9571000991233776
+* Для бизнеса: 0.9477649786278346
+* Хобби и отдых: 0.9310013324113272
+* Животные: 0.9763405220349332
+
+The average ROC AUC: 0.9611
