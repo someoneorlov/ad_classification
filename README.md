@@ -46,7 +46,7 @@ Example:
 The average `ROC-AUC` for each ad category will be used as a metric for the quality of the model's performance.
 
 
-# 2. Запуск решения
+# 2. Launching the solution
 
 The code for training and inference models must be located in the `./lib` folder. 
 
